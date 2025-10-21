@@ -3,7 +3,7 @@ public class Assignment102025{
 
       System.out.println(")\\)\\");
       System.out.println(").. \\");
-      System.out.println("\\4_, '-.");
+      System.out.println("\\A_, '-.");
       System.out.println("  )     '.");
       System.out.println("  |  \\/   \\");
       System.out.println("  \\\\ |\\_  |_");
